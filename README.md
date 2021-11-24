@@ -38,3 +38,7 @@ Nota: Para correr el backend porfavor consulte el archivo **README** dentro de l
 
 Para verlo, solo ingresa esta dirección en tu buscador: [http://localhost:3000](http://localhost:3000)
 
+#### Puede que las dependencias no se hayan descargado en su totalidad.
+#### - En este caso se necesita usar el comando:
+> npm i
+
