@@ -36,5 +36,5 @@ Nota: Para correr el backend porfavor consulte el archivo **README** dentro de l
 
 ## ¡Listo, nuestro codigo empezará a correr!
 
-Para verlo, solo ingresa esta dirección en tu buscador: http://localhost:3000
+Para verlo, solo ingresa esta dirección en tu buscador: [http://localhost:3000](http://localhost:3000)
 
