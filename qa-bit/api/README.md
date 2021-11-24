@@ -2,7 +2,9 @@
 
 ##### Correr Backend:
 
-Para empezar el programa, primero se necesita especificar la ruta para ingresar a la carpeta llamada: **qa-bit** en nuestra terminal o simbolo del sistema.
+Para empezar el programa, primero se necesita especificar la ruta para ingresar a la carpeta llamada: **qa-bit** 
+- En otra terminal o simbolo del sistema.
+
 1. > C:\Users\admin\Desktop\ReclutamientoBit2Bit> cd qa-bit
 - A diferencia del caso anterior, ahora necesitamos especificar la direccion a otra carpeta llamada **api**, una vez que estemos dentro de la carpeta qa-bit.
 2. > C:\Users\admin\Desktop\ReclutamientoBit2Bit\qa-bit> cd api
