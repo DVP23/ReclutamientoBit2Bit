@@ -32,6 +32,6 @@ Una vez que se cumplieron los pasos de dirección.
 - Solo agregamos el comando:
 > npm start
 
-Nota: Para correr el backend porfavor consulte el archivo **readme** dentro de la carpeta api.  
+Nota: Para correr el backend porfavor consulte el archivo **README** dentro de la carpeta api.  
 
 ## ¡Listo, nuestro codigo empezará a correr!
