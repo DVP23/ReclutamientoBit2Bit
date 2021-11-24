@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# **ReclutamientoBit2Bit**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##### Resultado Actividad:
 
-## Available Scripts
+En esta actividad se utilizaron herramientas como:
+- React,
+NodeJs,
+Express
+y MySQL.
 
-In the project directory, you can run:
+<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="100"/> <img align="left" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="120"/>&nbsp;&nbsp;
+<img src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" width="120"/>&nbsp;&nbsp;
+<img src="https://expressjs.com/images/express-facebook-share.png" width="120"/>
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Los lenguajes de programación que se utilizaron fueron:
+- JavaScript,
+HTML-5,
+SQL
+y CSS.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="120"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1280px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="190" height="120"/>&nbsp;<img src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png" width="120"/>
 
-### `yarn test`
+Para empezar el programa, primero se necesita especificar la ruta para ingresar a la carpeta llamada: **qa-bit** en nuestra terminal o simbolo del sistema.
+1. > C:\Users\admin\Desktop\ReclutamientoBit2Bit> cd qa-bit
+- Detro de la carpeta qa-bit hacemos el ingreso a la carpeta **user**.
+2. > C:\Users\admin\Desktop\ReclutamientoBit2Bit\qa-bit> cd user
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+(En este caso los archivos se encuentran en el escritorio del adminisrador).
 
-### `yarn build`
+Una vez que se cumplieron los pasos de dirección. 
+- Solo agregamos el comando:
+> npm start
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Nota: Para correr el backend porfavor consulte el archivo **README** dentro de la carpeta api.  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## ¡Listo, nuestro codigo empezará a correr!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Para verlo, solo ingresa esta dirección en tu buscador: [http://localhost:3000](http://localhost:3000)
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### Puede que las dependencias no se hayan descargado en su totalidad.
+#### - En este caso se necesita usar el comando:
+> npm i
