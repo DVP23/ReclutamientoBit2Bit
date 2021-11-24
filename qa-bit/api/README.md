@@ -24,7 +24,7 @@ Para verlo, solo ingresa esta dirección en tu buscador: [http://localhost:3030]
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-## Para la base de datos.
+# Para la base de datos.
 
 (En otra terminal o simbolo del sistema, una tercera).
 
